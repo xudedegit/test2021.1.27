@@ -1,0 +1,2 @@
+D:\study_source\c_code\test2021.1.27\calculate_const\Debug\calculate_const.exe
+D:\study_source\c_code\test2021.1.27\calculate_const\Debug\calculate_const.pdb

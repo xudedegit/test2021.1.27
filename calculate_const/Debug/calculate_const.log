@@ -1,0 +1,8 @@
+﻿  calculate_const.c
+D:\study_source\c_code\test2021.1.27\calculate_const\calculate_const.c(17,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“__int64”
+D:\study_source\c_code\test2021.1.27\calculate_const\calculate_const.c(17,9): message : 请考虑在格式字符串中使用“%lld”
+D:\study_source\c_code\test2021.1.27\calculate_const\calculate_const.c(17,9): message : 请考虑在格式字符串中使用“%I64d”
+D:\study_source\c_code\test2021.1.27\calculate_const\calculate_const.c(18,9): warning C4477: “printf”: 格式字符串“%ld”需要类型“long”的参数，但可变参数 1 拥有了类型“__int64”
+D:\study_source\c_code\test2021.1.27\calculate_const\calculate_const.c(18,9): message : 请考虑在格式字符串中使用“%lld”
+D:\study_source\c_code\test2021.1.27\calculate_const\calculate_const.c(18,9): message : 请考虑在格式字符串中使用“%I64d”
+  calculate_const.vcxproj -> D:\study_source\c_code\test2021.1.27\calculate_const\Debug\calculate_const.exe
